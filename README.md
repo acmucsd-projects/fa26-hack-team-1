@@ -53,7 +53,7 @@ Run these commands from the repo root
 3. `node --watch app.js` - start a local server
 4. Open web browser and type in `http://localhost:3000/` to see server.
 
-`To stop the server do:`Ctrl + C`
+To stop the server do: `Ctrl + C`
 
 ### Backend structure
 ```
