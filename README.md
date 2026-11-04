@@ -45,8 +45,7 @@ frontend/src/
 
 ## Backend Folder
 
-## Running the backend
-
+### Running the backend
 Run these commands from the repo root
 
 1. `cd backend` - change into the frontend directory
@@ -56,8 +55,7 @@ Run these commands from the repo root
 
 `To stop the server do:`Ctrl + C`
 
-## Backend structure
-
+### Backend structure
 ```
 backend/src/
 ├── config/               # Connect to database
