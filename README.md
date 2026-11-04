@@ -10,7 +10,7 @@ Members:
 
 - Dominic:
   
-- James: My favorite dog breed are huskys. 
+- James:
   
 - Nick:
   
