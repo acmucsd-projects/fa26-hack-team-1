@@ -11,7 +11,7 @@ Members:
 - Dominic:
 - James: My favorite dog breed are huskys.
 - Nick:
-- Phillip:
+- Phillip: My favorite food to eat is sushi.
 
 Thanks for reading!
 
