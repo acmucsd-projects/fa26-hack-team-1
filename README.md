@@ -6,7 +6,7 @@ Members:
 
 - Anna:
 
-- Akshara:
+- Akshara: I love hiking!
 
 - Dominic:
 - James: My favorite dog breed are huskys.
