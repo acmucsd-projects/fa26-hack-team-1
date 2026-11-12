@@ -3,7 +3,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-    res.send('Health Check: Server is running');
+    res.send('Health Check!');
 });
 
 module.exports = app; 
