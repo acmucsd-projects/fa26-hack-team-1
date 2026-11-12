@@ -46,16 +46,18 @@ frontend/src/
 ## Backend Folder
 
 ### Running the backend
+
 Run these commands from the repo root
 
 1. `cd backend` - change into the frontend directory
 2. `npm install` - download any node packages that we're using
-3. `node --watch app.js` - start a local server
+3. `npm run dev` - start a local server
 4. Open web browser and type in `http://localhost:3000/` to see server.
 
 To stop the server do: `Ctrl + C`
 
 ### Backend structure
+
 ```
 backend/src/
 ├── config/               # Connect to database
@@ -65,5 +67,6 @@ backend/src/
 ├── routes/               # URL entry map (CRUD)
 ├── services/             # Code that does logic (ex auth, business, etc)
 ├── utils/                # Small reusable helper functions
-├── app.js                # Where everything comes together and webserver starts
+├── app.js                # Where routes and middleware comes together
+└── server.jsx            # Where the database and server starts
 ```
