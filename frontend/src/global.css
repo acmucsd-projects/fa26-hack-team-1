@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  /* Base colors */
+  --color-primary: #435c78;
+  --color-text: #2a3d52;
+  --color-gold: #ffcd00;
+  --color-background: #fbf8f1;
+  --color-border: #e6dfd0;
+
+  /* Match: green */
+  --color-match-green: #2f9e5b;
+  --color-match-green-label-bg: #dff3e6;
+  --color-match-green-label-border: #a9d9b9;
+  --color-match-green-label-text: #1e6b3d;
+
+  /* Match: yellow */
+  --color-match-yellow: #f2b705;
+  --color-match-yellow-label-bg: #fff4c2;
+  --color-match-yellow-label-border: #f0d460;
+  --color-match-yellow-label-text: #6e5200;
+
+  /* Match: red */
+  --color-match-red: #d9534f;
+  --color-match-red-label-bg: #fbe3e1;
+  --color-match-red-label-border: #f2b8b5;
+  --color-match-red-label-text: #9b2c25;
+
+  /* Fonts */
+  --font-heading: 'Libre Baskerville', Georgia, serif;
+  --font-body: 'League Spartan', system-ui, sans-serif;
+
+  /* Corners */
+  --radius-control: 10px; /* buttons & fields */
+  --radius-card: 16px;
+  --radius-pill: 9999px;
+}
