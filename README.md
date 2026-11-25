@@ -49,10 +49,10 @@ frontend/src/
 
 Run these commands from the repo root
 
-1. `cd backend` - change into the frontend directory
+1. `cd backend` - change into the backend directory
 2. `npm install` - download any node packages that we're using
 3. `npm run dev` - start a local server
-4. Open web browser and type in `http://localhost:3000/` to see server.
+4. Open web browser and type in `http://localhost:8000/` to see server.
 
 To stop the server do: `Ctrl + C`
 
