@@ -10,7 +10,7 @@ if (!process.env.MONGODB_URI || !process.env.DB_NAME) {
 const connectDB = async () => {
     try {
         const conn = await mongoose.connect(process.env.MONGODB_URI, {
-            dbName: process.env.DB_NAME,// Use the DB_NAME from .env or default to 'main'
+            dbName: process.env.DB_NAME,// Use the DB_NAME from .env
             autoCreate: false,
             serverSelectionTimeoutMS: 10000
         });
